@@ -1,7 +1,8 @@
 logframe
 ========
 
-Logging framework. Written in Jan. 2008 by a college freshman me for an underwater UAV system. So, it's probably buggy, not thread safe, and unusable. Made available here for posterity.
+A logging framework in C. Written in Jan. 2008 by a college freshman-skilled me for an underwater UAV. 
+So, it's confident to say that it is probably buggy, not thread safe, and unusable. Made available here for posterity.
 
 ==== Features ====
   * C logging library
