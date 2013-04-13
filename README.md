@@ -1,7 +1,7 @@
 logframe
 ========
 
-Logging framework.
+Logging framework. Written in Jan. 2008 by a college freshman me, so it's probably buggy and unusable. Made available here for posterity.
 
 ==== Features ====
   * C logging library
