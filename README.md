@@ -16,7 +16,7 @@ Logging framework.
 
 ==== Example ====
 
-<code c>
+```c
 /* Test example */
 
 /*
@@ -177,6 +177,4 @@ void call_me_if_threshold_reached(void){
     // threshold is automatically reset
    
 }
-
-
-</code>
+```
