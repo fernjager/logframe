@@ -4,7 +4,8 @@ logframe
 A logging framework in C. Written in Jan. 2008 by a college freshman-skilled me for an underwater UAV. 
 So, it's confident to say that it is probably buggy, not thread safe, and unusable. Made available here for posterity.
 
-==== Features ====
+Features
+==== 
   * C logging library
   * Logging levels arranged by severity
   * Threshold functions for errors
@@ -13,9 +14,10 @@ So, it's confident to say that it is probably buggy, not thread safe, and unusab
   * Probably not thread safe
   * Fast
   * Uses hash table code written by someone else (so it's at least partially good)
-  * Tested for memory leaks
+  * Tested for memory leaks using IBM Rational Purify.
 
-==== Example ====
+Example
+====
 
 ```c
 /* Test example */
